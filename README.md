@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jai Bhatia</h1>
 <h3 align="center">Transforming Data into Insights: Your Go-To Data Analyst for Cutting-Edge Analytics and Intelligent Solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdobWprMGY0OTZ5Nzd0YTJ5MTc5cmh6YTUxMzk5NGsya3p1OGZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxazc1dDZrc3Nsc2c2cnZnbWF4ZnFsd29qMXp4dWF2YW9uNHpnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 
 - 🔭 I’m currently working on [Autonomous Testing Tools](https://watermelon.us/)
 
