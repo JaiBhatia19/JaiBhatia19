@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxazc1dDZrc3Nsc2c2cnZnbWF4ZnFsd29qMXp4dWF2YW9uNHpnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif)](https://damdev)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://damdev)
 
 <h1 align="center">Hi 👋, I'm Jai Bhatia</h1>
 <h3 align="center">Transforming Data into Insights: Your Go-To Data Analyst for Cutting-Edge Analytics and Intelligent Solutions</h3>
