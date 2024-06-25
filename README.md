@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jaibhatia1906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NfAK85vwJN_OBjqk4YMHCMfV4EYJc6VS/view?usp=sharing](https://drive.google.com/file/d/1NfAK85vwJN_OBjqk4YMHCMfV4EYJc6VS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_VOm_j9LQkvI2XHNyD6bzTifrcl9lNOr/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Real Madrid Fan and live to eat**
 
