@@ -11,7 +11,7 @@
 - 👨‍💻 Explore my projects on GitHub: [github.com/JaiBhatia19](https://github.com/JaiBhatia19?tab=repositories)  
 - 💬 Ask me about **Sales Engineering, Solution Architecture, Go-To-Market Strategies, Cloud Computing, Premier League Soccer, and Vibe Coding**  
 - 📫 Reach me at **jaibhatia1906@gmail.com**  
-- 📄 View my professional resume on [Google Drive](https://drive.google.com/file/d/1Fx3PNvhcagdYrgg3buealCukiF8d5TOJ/view?usp=sharing)  
+- 📄 View my professional resume on [Google Drive](https://drive.google.com/file/d/1ZIKRKhBBm1tiGWq1ETeVCt6_6OC0ryEo/view?usp=sharing)  
 - ⚡ Fun fact: I'm a Real Madrid fan who loves discovering the best food in town  
 
 <h3 align="left">Connect with me:</h3>
