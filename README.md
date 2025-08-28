@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxazc1dDZrc3Nsc2cnZnbWF4ZnFsd29qMXp4dWF2YW9uNHpnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 
 - 🔭 Currently a Sales Engineer at [Watermelon Software Inc](https://watermelon.us/) — specializing in demoing and deploying automated testing solutions that banish flaky pipelines  
-- 🌱 Always learning advanced cloud architecture and AWS Solutions Architect certification to deepen solution design expertise  
+- 🌱 Enjoy experimenting with and learning about AI and Cloud
 - 👨‍💻 Explore my projects on GitHub: [github.com/JaiBhatia19](https://github.com/JaiBhatia19?tab=repositories)  
-- 💬 Ask me about **Sales Engineering, Solution Architecture, Go-To-Market Strategies, Cloud Computing, Premier League Soccer, and Vibe Coding**  
+- 💬 Ask me about **Sales Engineering, Solution Architecture, Go-To-Market Strategies, Cloud Computing, Fantasy Premier League, and Vibe Coding**  
 - 📫 Reach me at **jaibhatia1906@gmail.com**  
 - 📄 View my professional resume on [Google Drive](https://drive.google.com/file/d/1ZIKRKhBBm1tiGWq1ETeVCt6_6OC0ryEo/view?usp=sharing)  
 - ⚡ Fun fact: I'm a Real Madrid fan who loves discovering the best food in town  
