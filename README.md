@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxazc1dDZrc3Nsc2cnZnbWF4ZnFsd29qMXp4dWF2YW9uNHpnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 
-- 🔭 Currently a Sales Engineer at [Watermelon Software Inc](https://watermelon.us/) — specializing in demoing and deploying automated testing solutions that banish flaky pipelines  
+- 🔭 Currently a Sales Engineer at [Watermelon Software Inc](https://watermelon.us/) — specializing in demoing and deploying automated testing solutions. I love representing the company at conferences where I can build relationships and get feedback from  end users/practioners and decision makers 
 - 🌱 Enjoy experimenting with and learning about AI and Cloud
 - 👨‍💻 Explore my projects on GitHub: [github.com/JaiBhatia19](https://github.com/JaiBhatia19?tab=repositories)  
 - 💬 Ask me about **Sales Engineering, Solution Architecture, Go-To-Market Strategies, Cloud Computing, Fantasy Premier League, and Vibe Coding**  
